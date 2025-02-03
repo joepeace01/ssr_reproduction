@@ -1,0 +1,21 @@
+<div class="container">
+  <h1>MFE1</h1>
+  <p>
+      Micro Frontend with <span class="ssr">SSR</span>
+  </p>
+  <ul>
+    <li *ngFor="let user of users$ | async">
+      {{ user.firstName }} {{ user.lastName }} - {{ user.address }}
+    </li>
+  </ul>
+</div>
+
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * The content above * * * * * * * * * * * -->
+<!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
+<!-- * * * * * * * * * * and can be replaced. * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * End of Placeholder * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+
+<router-outlet></router-outlet>

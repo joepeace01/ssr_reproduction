@@ -1,0 +1,739 @@
+{
+  "name": "mfSolutionsV2",
+  "shared": [
+    {
+      "packageName": "@angular/animations",
+      "outFileName": "_angular_animations.tcWiAnd1EF.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/animations/browser",
+      "outFileName": "_angular_animations_browser.-fPP2BW1TX.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/cdk",
+      "outFileName": "_angular_cdk.V-3W8xNJej.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/a11y",
+      "outFileName": "_angular_cdk_a11y.Cxe_CS1uWs.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/accordion",
+      "outFileName": "_angular_cdk_accordion.IG2axsD9jH.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/bidi",
+      "outFileName": "_angular_cdk_bidi.LKbGfZuwhy.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/clipboard",
+      "outFileName": "_angular_cdk_clipboard.mW1-NAo45j.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/coercion",
+      "outFileName": "_angular_cdk_coercion.4svMRulz9K.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/coercion/private",
+      "outFileName": "_angular_cdk_coercion_private.IMRswI8kAv.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/collections",
+      "outFileName": "_angular_cdk_collections.AfoioKshYv.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/dialog",
+      "outFileName": "_angular_cdk_dialog.gTuz33bdyA.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/drag-drop",
+      "outFileName": "_angular_cdk_drag_drop.2JmltrknRZ.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/keycodes",
+      "outFileName": "_angular_cdk_keycodes.VwpRb1lN5g.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/layout",
+      "outFileName": "_angular_cdk_layout.Tiv-cmM1jw.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/listbox",
+      "outFileName": "_angular_cdk_listbox.p53vSPfKwt.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/menu",
+      "outFileName": "_angular_cdk_menu.S0HXujSCUS.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/observers",
+      "outFileName": "_angular_cdk_observers.1MaS3SdFm8.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/observers/private",
+      "outFileName": "_angular_cdk_observers_private.OKLc26IbkL.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/overlay",
+      "outFileName": "_angular_cdk_overlay.JTVhyrv_p8.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/platform",
+      "outFileName": "_angular_cdk_platform.ErOL2ztH2w.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/portal",
+      "outFileName": "_angular_cdk_portal.aycUhVtSmF.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/scrolling",
+      "outFileName": "_angular_cdk_scrolling.6PKYIbqL3L.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/stepper",
+      "outFileName": "_angular_cdk_stepper.zXnkxhNK2f.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/table",
+      "outFileName": "_angular_cdk_table.x3WjhT32Iw.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/text-field",
+      "outFileName": "_angular_cdk_text_field.Bls7bs_TUh.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/cdk/tree",
+      "outFileName": "_angular_cdk_tree.MUQ4Ps8z2-.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/common",
+      "outFileName": "_angular_common.Z7-3Mi6awg.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/common/http",
+      "outFileName": "_angular_common_http.b8aPVx9qU8.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/compiler",
+      "outFileName": "_angular_compiler.WsmLztKUmt.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/core",
+      "outFileName": "_angular_core.mX3jwr5wWJ.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/core/event-dispatch-contract.min.js",
+      "outFileName": "_angular_core_event_dispatch_contract_min_js.2OGUI0bOFF.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/core/primitives/event-dispatch",
+      "outFileName": "_angular_core_primitives_event_dispatch.BP_AL_QZnF.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/core/primitives/signals",
+      "outFileName": "_angular_core_primitives_signals.0sGs5lQK1E.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/core/rxjs-interop",
+      "outFileName": "_angular_core_rxjs_interop.OZ0qvy8MsH.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/forms",
+      "outFileName": "_angular_forms.ZPb8qU8A6l.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/material",
+      "outFileName": "_angular_material.2nsTlTWMdC.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/autocomplete",
+      "outFileName": "_angular_material_autocomplete.0gs71m4fXn.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/badge",
+      "outFileName": "_angular_material_badge.8hoMGdQgzF.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/bottom-sheet",
+      "outFileName": "_angular_material_bottom_sheet.qK_QMkv3e1.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/button",
+      "outFileName": "_angular_material_button.22WBr2UAIq.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/button-toggle",
+      "outFileName": "_angular_material_button_toggle.YyRMwLFFmw.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/card",
+      "outFileName": "_angular_material_card.gX9TE6T8wa.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/checkbox",
+      "outFileName": "_angular_material_checkbox.AmRrSrt7TX.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/chips",
+      "outFileName": "_angular_material_chips.azYm70GZj-.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/core",
+      "outFileName": "_angular_material_core.vDEjJLRdW2.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/datepicker",
+      "outFileName": "_angular_material_datepicker.Ve21-7t18E.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/dialog",
+      "outFileName": "_angular_material_dialog.vFQWdE_4WN.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/divider",
+      "outFileName": "_angular_material_divider.8skZxg4lka.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/expansion",
+      "outFileName": "_angular_material_expansion.xiOgzVfM2n.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/form-field",
+      "outFileName": "_angular_material_form_field.kMZOr1w1OP.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/grid-list",
+      "outFileName": "_angular_material_grid_list.WjAiAjSLZP.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/icon",
+      "outFileName": "_angular_material_icon.RSNomf7NB7.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/input",
+      "outFileName": "_angular_material_input.nTqYtpmtBP.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/list",
+      "outFileName": "_angular_material_list.0DtXXSJqER.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/menu",
+      "outFileName": "_angular_material_menu.3r3W9OoAoP.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/paginator",
+      "outFileName": "_angular_material_paginator.O-BS0Sfky5.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/progress-bar",
+      "outFileName": "_angular_material_progress_bar.jLFJD_baK4.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/progress-spinner",
+      "outFileName": "_angular_material_progress_spinner.jblDHADl5Y.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/radio",
+      "outFileName": "_angular_material_radio.NdoA8kwapK.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/select",
+      "outFileName": "_angular_material_select.gpXNh0H6W_.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/sidenav",
+      "outFileName": "_angular_material_sidenav.j5BAn0jf3M.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/slide-toggle",
+      "outFileName": "_angular_material_slide_toggle.Jqv4gVXzAr.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/slider",
+      "outFileName": "_angular_material_slider.8LqvzIi7kr.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/snack-bar",
+      "outFileName": "_angular_material_snack_bar.r3rrEzxu-v.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/sort",
+      "outFileName": "_angular_material_sort.5dwX8_DrQx.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/stepper",
+      "outFileName": "_angular_material_stepper.UyA1GhvWL9.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/table",
+      "outFileName": "_angular_material_table.WjQKHwtN_3.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/tabs",
+      "outFileName": "_angular_material_tabs.T-gnnvakfp.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/toolbar",
+      "outFileName": "_angular_material_toolbar.x8oHKCWhqn.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/tooltip",
+      "outFileName": "_angular_material_tooltip.XWT126PE7J.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/material/tree",
+      "outFileName": "_angular_material_tree.x70EvD7JN-.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    },
+    {
+      "packageName": "@angular/platform-browser",
+      "outFileName": "_angular_platform_browser.8Bc_0BeNvT.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/platform-browser/animations",
+      "outFileName": "_angular_platform_browser_animations.eBrOKu_dCC.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/platform-browser/animations/async",
+      "outFileName": "_angular_platform_browser_animations_async.7hDmY8MpEu.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/platform-browser-dynamic",
+      "outFileName": "_angular_platform_browser_dynamic.fgd8g-A3oT.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/router",
+      "outFileName": "_angular_router.g_keVLj3th.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/service-worker",
+      "outFileName": "_angular_service_worker.sFVQY40Cek.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/service-worker/ngsw-worker.js",
+      "outFileName": "_angular_service_worker_ngsw_worker_js.LrC09qM2sa.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/service-worker/safety-worker.js",
+      "outFileName": "_angular_service_worker_safety_worker_js.dgzukFy-kh.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/service-worker/config",
+      "outFileName": "_angular_service_worker_config.zFHcrIuq2Y.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@ng-bootstrap/ng-bootstrap",
+      "outFileName": "_ng_bootstrap_ng_bootstrap.qlk2kTyDOu.js",
+      "requiredVersion": "^17.0.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.1"
+    },
+    {
+      "packageName": "rxjs",
+      "outFileName": "rxjs.NxxyFh1N77.js",
+      "requiredVersion": "~7.5.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.5.7"
+    },
+    {
+      "packageName": "rxjs/ajax",
+      "outFileName": "rxjs_ajax.N61Pmwg_2n.js",
+      "requiredVersion": "~7.5.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.5.7"
+    },
+    {
+      "packageName": "rxjs/fetch",
+      "outFileName": "rxjs_fetch.Q2EITgCfSB.js",
+      "requiredVersion": "~7.5.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.5.7"
+    },
+    {
+      "packageName": "rxjs/operators",
+      "outFileName": "rxjs_operators.Iu6nZBeJ7D.js",
+      "requiredVersion": "~7.5.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.5.7"
+    },
+    {
+      "packageName": "rxjs/testing",
+      "outFileName": "rxjs_testing.3NyCH2f0Nf.js",
+      "requiredVersion": "~7.5.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.5.7"
+    },
+    {
+      "packageName": "rxjs/webSocket",
+      "outFileName": "rxjs_webSocket.n8KogqLzsc.js",
+      "requiredVersion": "~7.5.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.5.7"
+    },
+    {
+      "packageName": "tslib",
+      "outFileName": "tslib.WpgD6TD0lT.js",
+      "requiredVersion": "^2.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "2.8.1"
+    },
+    {
+      "packageName": "@angular/platform-server",
+      "outFileName": "_angular_platform_server.uTNJ71pK2W.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/platform-server/init",
+      "outFileName": "_angular_platform_server_init.v__AYcZFjC.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/ssr",
+      "outFileName": "_angular_ssr.PqszDucObj.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "18.2.14"
+    }
+  ],
+  "exposes": [
+    {
+      "key": "./routes",
+      "outFileName": "routes-7W23T7AG.js"
+    }
+  ]
+}
